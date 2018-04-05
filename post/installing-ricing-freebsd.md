@@ -15,7 +15,8 @@ This is the test post
   <input class="color blue" name="color" type="radio" />
   <input class="color purple" name="color" type="radio" />
   <input class="color green" name="color" type="radio" />
-  <input class="color red" name="color" type="radio" /><input class="color orange" name="color" type="radio" />
+  <input class="color red" name="color" type="radio" />
+      <input class="color orange" name="color" type="radio" />
   <input class="color yellow" name="color" type="radio" />
   <div class="body"></div>
 </form>

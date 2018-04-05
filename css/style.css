@@ -120,3 +120,49 @@ body,
 .colors .yellow:checked + .body {
   background: #f1c40f;
 }
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 50px;
+}
+
+.wrap {
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+
+.main {
+  background: orange;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  position: relative;
+  z-index: 2;
+}
+
+.menu {
+  background: orchid;
+  width: 100px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1;
+  -moz-transition: right 0.5s ease;
+  -o-transition: right 0.5s ease;
+  -webkit-transition: right 0.5s ease;
+  transition: right 0.5s ease;
+}
+.menu a {
+  display: block;
+  padding: 10px;
+}
+
+.wrap:hover .menu {
+  right: -100px;
+}
+

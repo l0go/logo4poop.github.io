@@ -1,2 +1,2 @@
-# logo4poop's terrible blog about linux and bsd
+#### aka logo4poop's terrible blog about linux and bsd
 ***

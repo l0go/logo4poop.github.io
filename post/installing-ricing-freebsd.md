@@ -6,7 +6,12 @@ This is the test post
 <head>
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 </head>
-<form class="colors">
+<div class="wrap">
+  <div class="main">
+    <p>Hover for options</p>
+  </div><!--/.main-->
+  <div class="menu">
+    <form class="colors">
   <input class="color blue" name="color" type="radio" />
   <input class="color purple" name="color" type="radio" />
   <input class="color green" name="color" type="radio" />
@@ -14,3 +19,5 @@ This is the test post
   <input class="color yellow" name="color" type="radio" />
   <div class="body"></div>
 </form>
+  </div><!--/.menu-->
+</div>

@@ -2,14 +2,18 @@
 <h2>A quick javascript tool to make all Discord Emojis Global :3</h2>
 
 <!-- Get Emoji ID -->
+<p>Emoji Name with no <b>:</b> -</p>
+<input type="text" value="Put The Emoji NAME in here arr!" id="name">
+<p>ID -</p>
 <input type="text" value="Put The Emoji ID in here arr!" id="ID">
 
 <!-- A button -->
 <button onclick="myFunction()" id="Arr" >Arr!</button>
 
 <script>
-myTextBox = document.getElementById("ID");
+id = document.getElementById("ID");
+emoji = document.getElementById("name");
   document.getElementById('Arr').onclick = function() {
-   alert(":**`**:" + myTextBox.value + ":**`**:");
+   alert(":**`**:" + ":" + emoji.value + ":" myTextBox.value + ":**`**:");
 };
 </script>

@@ -1,2 +1,2 @@
-#### aka logo4poop's terrible blog about linux and bsd
+#### Welcome to my terrible website, how may I help you?
 ***

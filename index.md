@@ -9,7 +9,7 @@ I make terrible keyboards, annoy people on discord and for some reason some peop
 
 ![#2](https://raw.githubusercontent.com/logo4poop/logo4poop.github.io/master/Screen%20Shot%202020-05-23%20at%2011.10.15%20PM.png)
 
-![#3](https://raw.githubusercontent.com/logo4poop/logo4poop.github.io/master/Screen%20Shot%202020-05-23%20at%2011.10.31%20PM.png)
+![#3](https://raw.githubusercontent.com/logo4poop/logo4poop.github.io/master/image.png)
 
 ![#4](https://raw.githubusercontent.com/logo4poop/logo4poop.github.io/master/Screen%20Shot%202020-05-23%20at%2011.11.08%20PM.png)
 

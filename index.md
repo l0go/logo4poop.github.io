@@ -38,3 +38,5 @@ I make terrible keyboards, annoy people on discord and for some reason some peop
 ![#16](https://raw.githubusercontent.com/logo4poop/logo4poop.github.io/master/Screen%20Shot%202020-05-24%20at%202.31.01%20AM.png)
 
 ![#17](https://raw.githubusercontent.com/logo4poop/logo4poop.github.io/master/Xxunknown1337xX.png)
+
+![#17](https://raw.githubusercontent.com/logo4poop/logo4poop.github.io/master/logodesignz.png)

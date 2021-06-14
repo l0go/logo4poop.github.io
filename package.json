@@ -1,0 +1,22 @@
+{
+	"name": "logo4poop.github.io",
+	"version": "1.0.0",
+	"description": "My personal website",
+	"main": ".eleventy.js",
+	"scripts": {
+		"build": "eleventy"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/logo4poop/logo4poop.github.io"
+	},
+	"author": "SonixQMK",
+	"license": "CC-BY-NC-SA-4.0",
+	"bugs": {
+		"url": "https://github.com/logo4poop/logo4poop.github.io/issues"
+	},
+	"homepage": "logo4poop.github.io",
+	"dependencies": {
+		"@11ty/eleventy": "^0.12.1"
+	}
+}

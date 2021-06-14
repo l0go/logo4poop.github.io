@@ -1,0 +1,13 @@
+---
+layout: template.njk
+title: post
+date: Last Modified
+---
+<h2>Blog</h2>
+
+<div class="card">
+	<h2>{{title}}</h2>
+	<h4>Post last updated on <b>{{page.date.toLocaleDateString("en-US")}}</b></h4>
+
+	{{content | safe}}
+</div>

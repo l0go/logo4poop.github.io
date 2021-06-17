@@ -2,13 +2,13 @@
 layout: template.njk
 title: Blog
 ---
-<h2>Blog</h2>
+<h2 class="title">Blog</h2>
 
 <div class="card">
 	<h2>Posts</h2>
 	<ol class="blog-posts">
 		{% for post in collections.posts %}
-			<li><a href="{{post.url}}">{{post.data.title}} <span class="post-date">{{page.date.toLocaleDateString("en-US")}}</span></a></li>
+			<li><a href="{{post.url}}">{{post.data.title}} <span class="post-date">{{post.date.toLocaleDateString("en-US")}}</span></a></li>
 		{% endfor %}
 	</ol>
 
